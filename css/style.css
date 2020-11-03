@@ -1,0 +1,75 @@
+
+.container{
+  width: 100%;
+  height: 1000px;
+  background:url("../img/background.jpg");
+  font-family: 'PT Serif', serif;
+  color: white;
+}
+.section-container{
+  width: 80%;
+  margin: auto;
+  margin-top: 5px;
+}
+.section-border{
+  border-bottom: 2px solid white;
+}
+.object-content{
+  width: 150px;
+  height: 100px;
+  display: inline-block;
+  margin: 20px 0px;
+  position: relative;
+}
+.brand-name{
+height: auto;
+width: auto;
+position: absolute;
+top: 25%;
+font-size: 30px;
+}
+.logo-image{
+  background: url("../img/Gmail-logo.png") no-repeat center;
+  background-size: contain;
+}
+.unread-number{
+  background-color: #FFA504;
+  border-radius: 50%;
+  padding: 15px;
+}
+.input-section{
+  padding-top: 5px;
+}
+.inbox-row{
+  width: 100%;
+  background-color: #D3D3D3;
+  border: 1px solid black;
+  font-size: 20px;
+  color: black;
+  font-weight: 700;
+}
+.row-one{
+  margin-top: 20px;
+}
+.row-two{
+    background-color: #FFF;
+}
+.row-four{
+  margin-bottom: 20px;
+}
+.mail-text{
+  color:#9E9E9E;
+  font-weight: 400;
+}
+.footer-section{
+  border-top: 2px solid white;
+}
+.credits{
+  margin: auto;
+  width: 25%;
+  font-style: italic;
+}
+.brand-credits{
+  font-size: 30px;
+  font-style: normal;
+}
